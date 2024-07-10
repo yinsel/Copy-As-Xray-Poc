@@ -32,6 +32,7 @@ public class POC {
     public static class Detail {
         public String author = "burp";
         public List<String> links = new ArrayList<>();
+        public String description = "漏洞描述";
 
         {
             links.add("https://github.com/yinsel/Copy-As-Xray-Poc");
