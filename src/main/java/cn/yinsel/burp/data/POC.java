@@ -34,7 +34,7 @@ public class POC {
         public List<String> links = new ArrayList<>();
 
         {
-            links.add("https://github.com/yinsel/CopyAsXrayPoc");
+            links.add("https://github.com/yinsel/Copy-As-Xray-Poc");
         }
     }
 }
